@@ -1,0 +1,20 @@
+{
+  "name": "Bootstrap4Essential",
+  "homepage": "https://github.com/iAvinashVarma/Bootstrap4Essential",
+  "authors": [
+    "Avinash Varma <iavinashvarma@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "Bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
