@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "bower_components": true,
+        "e2e": true,
+        "node_modules": true
+    }
+}
